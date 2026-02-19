@@ -231,16 +231,3 @@ Bu proje kapsamında:
 - Hata senaryosu testleri
 
 uygulanmıştır.
-
----
-
-## 📌 Sonuç
-
-Bu sistem:
-
-- Veri bütünlüğünü önceliklendiren
-- Kurallarla güvence altına alınmış
-- Transaction kontrollü
-- Akademik olarak doğru modellenmiş
-
-bir SQL Server veri tabanı projesidir.
